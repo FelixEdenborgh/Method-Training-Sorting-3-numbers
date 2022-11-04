@@ -1,0 +1,15 @@
+C:\Users\FelixEdenborgh\source\repos\csharpTraining\Methods Training\bin\Debug\net6.0\Methods Training.exe
+C:\Users\FelixEdenborgh\source\repos\csharpTraining\Methods Training\bin\Debug\net6.0\Methods Training.deps.json
+C:\Users\FelixEdenborgh\source\repos\csharpTraining\Methods Training\bin\Debug\net6.0\Methods Training.runtimeconfig.json
+C:\Users\FelixEdenborgh\source\repos\csharpTraining\Methods Training\bin\Debug\net6.0\Methods Training.dll
+C:\Users\FelixEdenborgh\source\repos\csharpTraining\Methods Training\bin\Debug\net6.0\Methods Training.pdb
+C:\Users\FelixEdenborgh\source\repos\csharpTraining\Methods Training\obj\Debug\net6.0\Methods Training.csproj.AssemblyReference.cache
+C:\Users\FelixEdenborgh\source\repos\csharpTraining\Methods Training\obj\Debug\net6.0\Methods Training.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FelixEdenborgh\source\repos\csharpTraining\Methods Training\obj\Debug\net6.0\Methods Training.AssemblyInfoInputs.cache
+C:\Users\FelixEdenborgh\source\repos\csharpTraining\Methods Training\obj\Debug\net6.0\Methods Training.AssemblyInfo.cs
+C:\Users\FelixEdenborgh\source\repos\csharpTraining\Methods Training\obj\Debug\net6.0\Methods Training.csproj.CoreCompileInputs.cache
+C:\Users\FelixEdenborgh\source\repos\csharpTraining\Methods Training\obj\Debug\net6.0\Methods Training.dll
+C:\Users\FelixEdenborgh\source\repos\csharpTraining\Methods Training\obj\Debug\net6.0\refint\Methods Training.dll
+C:\Users\FelixEdenborgh\source\repos\csharpTraining\Methods Training\obj\Debug\net6.0\Methods Training.pdb
+C:\Users\FelixEdenborgh\source\repos\csharpTraining\Methods Training\obj\Debug\net6.0\Methods Training.genruntimeconfig.cache
+C:\Users\FelixEdenborgh\source\repos\csharpTraining\Methods Training\obj\Debug\net6.0\ref\Methods Training.dll
